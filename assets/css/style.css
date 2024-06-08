@@ -1,0 +1,92 @@
+.seleccion {
+    padding-left: 15px;
+}
+
+.list {
+    display: flex;
+}
+.list p {
+    padding-right: 10px;
+}
+.imageninteractiva {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imageninteractiva img {
+    width: 480px;
+}
+
+/*Problema 2 CSS  */
+.mainbox1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box img{
+    width: 220px;
+    padding: 20px;
+
+}
+.inputinteractivo {
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+}
+.boxdata {
+    display: flex;
+    justify-content: center;
+    width: 100vp;
+}
+
+.datatoprint {
+    display: inline-block;
+    height: 100px;
+    width: 100vp;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.datatoprint p {
+    height: 15px;
+}
+.botonverificar {
+    display: flex;
+    justify-content: center;
+}
+
+.botonverificar button {
+    display: inline;
+    justify-content: center;
+}
+.datatoprint p{
+    text-align: center;
+}
+
+/* Problema 3 CSS  */
+
+.mainboxprob3 {
+    display: flex;
+    flex-direction: column;;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+.mainselectprob3 {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-bottom: 10px;
+    /* width: 100vh; */
+    height: 50px;
+    font-size: 18px;
+}
+.mainparrafoprob3 {
+    height: 50px;
+}
+.mainbtnprob3 {
+
+    height: 50px;
+    /* width: 100%; */
+}
